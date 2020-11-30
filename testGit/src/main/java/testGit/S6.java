@@ -7,5 +7,7 @@ public class S6 {
 		System.out.println("上面的是主干上的代码，现在是分支上修改的");
 		
 		System.out.println("fenzhi1 xxx1");
+		
+		System.out.println("fenzhi1 xxx2");
 	}
 }

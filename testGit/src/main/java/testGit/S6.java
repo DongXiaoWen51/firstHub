@@ -9,5 +9,7 @@ public class S6 {
 		System.out.println("fenzhi1 xxx1");
 		
 		System.out.println("fenzhi1 xxx2");
+		
+		System.out.println("fenzhi1 修改代码，准备合并到主干");
 	}
 }
